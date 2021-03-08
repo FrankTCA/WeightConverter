@@ -46,6 +46,7 @@
 		012F58FB25EEA93A00D1F748 /* WeightConverterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeightConverterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		012F58FF25EEA93A00D1F748 /* WeightConverterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeightConverterUITests.swift; sourceTree = "<group>"; };
 		012F590125EEA93A00D1F748 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		018D43D425F6A24F00F1D1FC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 		012F58D525EEA93900D1F748 = {
 			isa = PBXGroup;
 			children = (
+				018D43D425F6A24F00F1D1FC /* README.md */,
 				012F58E025EEA93900D1F748 /* WeightConverter */,
 				012F58F325EEA93A00D1F748 /* WeightConverterTests */,
 				012F58FE25EEA93A00D1F748 /* WeightConverterUITests */,
